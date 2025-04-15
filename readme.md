@@ -25,7 +25,7 @@ emotion-detector/
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-detector-using-opencv.git
+git clone https://github.com/vanshjaggi/emotion-detector-using-opencv.git
 cd emotion-detector-using-opencv
 ```
 
