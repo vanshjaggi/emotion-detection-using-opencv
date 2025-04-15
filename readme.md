@@ -25,8 +25,8 @@ emotion-detector/
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/vanshjaggi/emotion-detector-using-opencv.git
-cd emotion-detector-using-opencv
+git clone https://github.com/vanshjaggi/emotion-detection-using-opencv.git
+cd emotion-detection-using-opencv
 ```
 
 ### ✅ Step 2: Set Up Virtual Environment (Recommended)
@@ -120,7 +120,7 @@ A window will appear showing your webcam feed with real-time emotion predictions
 
 ## 📌 Requirements
 
-- Python 3.x
+- Python 3.8.x
 - OpenCV
 - TensorFlow / Keras
 - NumPy
